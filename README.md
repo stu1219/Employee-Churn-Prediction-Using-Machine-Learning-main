@@ -51,4 +51,4 @@ A function is included to test and compare various machine learning classifiers 
 
 sql
 Copy code
-This README file is crafted to be both comprehensive and user-friendly, guiding users smoothly through t
+This README file is crafted to be both comprehensive and user-friendly, guiding users smoothly through the setup, usage, and features of the project.
